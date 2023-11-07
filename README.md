@@ -32,7 +32,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 3. **Construir el Proyecto:**
 
-    Construye el proyecto utilizando las herramientas apropiadas (por ejemplo, Maven):
+    Construye el proyecto utilizando las herramientas apropiadas (Maven):
 
     ```shell
     mvn clean install
@@ -40,7 +40,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 4. **Ejecutar la Aplicación:**
 
-    Inicia la aplicación (por ejemplo, en el caso de Spring Boot):
+    Inicia la aplicación (Spring Boot):
 
     ```shell
     mvn spring-boot:run
@@ -54,5 +54,5 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
     http://localhost:puerto
     ```
 
-    Reemplaza `puerto` con el número de puerto utilizado por la aplicación.
+    Reemplaza `puerto` con el número de puerto utilizado por la aplicación, Por defecto es 8080
 
